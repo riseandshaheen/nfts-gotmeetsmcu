@@ -1,15 +1,12 @@
-# Basic Sample Hardhat Project
+# Random Unique NFTs - GOTmeetsMCU
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is an attempt to create randomly generated NFTs around Game of Thrones and Marvel Universe theme.
 
-Try running some of the following tasks:
+Test it here: https://gotmeetsmcu.netlify.app/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Requirements:
+1. Metamask wallet installed
+2. Network to be selected is Rinkeby testnet. Make sure you have some faucet on it.
+3. OpenSea testnets access.
+
+Thank You.
